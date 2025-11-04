@@ -6,7 +6,7 @@ Flowise is an open-source, no-code / low-code tool for visually building LLM-bas
 
 ⚙️ Key features:
 ```
-✅ Visual Builder - Create LLM workflows by connecting blocks (LLM, Prompt, Tools, Database, etc.) in a flow editor
+✅ Visual Builder - Create LLM workflows by connecting blocks (LLM, Prompt, Tools, Database) in a flow editor
 ✅ Powered by LangChain - Every node corresponds to a LangChain component — can easily export and run it as code later.
 ✅ Supports many models:
 OpenAI (GPT-3.5 / GPT-4)
@@ -15,8 +15,8 @@ Google Gemini
 Mistral, Ollama (local models)
 Hugging Face models
 And through LiteLLM — virtually any model you want!
-✅ RAG & vector stores - Integrates with Pinecone, FAISS, Chroma, Weaviate, Supabase, and more for retrieval-based chat.
-✅ Agents & Tools - Add nodes for Google Search, API calls, calculators, or your own custom Python functions
+✅ RAG & vector stores - Integrates with Pinecone, FAISS, Chroma, Weaviate, Supabase
+✅ Agents & Tools - Add nodes for Google Search, API calls, or your own custom Python functions
 ✅ API endpoints - Each flow can be deployed as a REST API endpoint, so your app or frontend can use it directly.
 ✅ Authentication, caching, and data logging included.
 ```
