@@ -7,7 +7,7 @@ Flowise is an open-source, no-code / low-code tool for visually building LLM-bas
 ⚙️ Key features:
 ```
 ✅ Visual Builder - Create LLM workflows by connecting blocks (LLM, Prompt, Tools, Database) 
-✅ LangChain - Every node corresponds to a LangChain component — can easily export and run it as code later.
+✅ Powered by LangChain - Every node corresponds to a LangChain component .
 ✅ Supports many models:
 OpenAI (GPT-3.5 / GPT-4)
 Anthropic Claude
