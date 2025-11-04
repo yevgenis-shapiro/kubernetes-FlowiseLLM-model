@@ -4,8 +4,7 @@
 ## Generative AI | Agents and LLM workflows 
 Flowise is an open-source, no-code / low-code tool for visually building LLM-based applications — like chatbots, RAG (Retrieval-Augmented Generation) systems, agents, and pipelines — using a drag-and-drop interface similar to Node-RED or n8n.
 
-
-🧩  Key Features
+⚙️ Key features:
 ```
 ✅ Visual Builder - Create LLM workflows by connecting blocks (LLM, Prompt, Tools, Database, etc.) in a flow editor
 ✅ Powered by LangChain - Every node corresponds to a LangChain component — so you can easily export and run it as code later.
@@ -22,7 +21,7 @@ And through LiteLLM — virtually any model you want!
 ✅ Authentication, caching, and data logging included.
 ```
 
-⚙️ 
+🚀 Deployment
 ```
 terraform init
 terraform validate
