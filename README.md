@@ -1,4 +1,5 @@
-![FlowiseIntro](https://github.com/user-attachments/assets/33b6d277-b66e-446e-a763-6eed4b4de7dc)
+![476353709-33b6d277-b66e-446e-a763-6eed4b4de7dc](https://github.com/user-attachments/assets/f400cab1-15f1-4ef4-9fd4-45810fb187bf)
+
 
 
 ## Generative AI | Agents and LLM workflows 
