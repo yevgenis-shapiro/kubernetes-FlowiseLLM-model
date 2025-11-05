@@ -2,7 +2,7 @@
 
 
 
-## Generative AI | Agents and LLM workflows 
+## AI | Agents and LLM workflows 
 Flowise is an open-source, no-code / low-code tool for visually building LLM-based applications — like chatbots, RAG (Retrieval-Augmented Generation) systems, agents, and pipelines — using a drag-and-drop interface similar to Node-RED or n8n.
 
 ⚙️ Key features:
